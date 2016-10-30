@@ -1,0 +1,9 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\5.TheThirdDigitIsSeven\bin\Debug\5.TheThirdDigitIsSeven.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\5.TheThirdDigitIsSeven\bin\Debug\5.TheThirdDigitIsSeven.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\5.TheThirdDigitIsSeven\bin\Debug\5.TheThirdDigitIsSeven.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\5.TheThirdDigitIsSeven\obj\Debug\5.TheThirdDigitIsSeven.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\5.TheThirdDigitIsSeven\obj\Debug\5.TheThirdDigitIsSeven.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\5.TheThirdDigitIsSeven\obj\Debug\5.TheThirdDigitIsSeven.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\5.TheThirdDigitIsSeven\bin\Debug\5.TheThirdDigitIsSeven.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\5.TheThirdDigitIsSeven\obj\Debug\5.TheThirdDigitIsSeven.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\5.TheThirdDigitIsSeven\obj\Debug\5.TheThirdDigitIsSeven.pdb

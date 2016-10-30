@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\12\bin\Debug\12.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\12\bin\Debug\12.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\12\bin\Debug\12.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\12\obj\Debug\12.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\12\obj\Debug\12.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\12\obj\Debug\12.csprojResolveAssemblyReference.cache

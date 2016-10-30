@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCsharp\bin\Debug\HelloCShrarp.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCsharp\obj\Debug\HelloCShrarp.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCsharp\obj\Debug\HelloCShrarp.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Intro-Programming-Homework\HelloCsharp\bin\Debug\HelloCShrarp.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Intro-Programming-Homework\HelloCsharp\obj\Debug\HelloCShrarp.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Intro-Programming-Homework\HelloCsharp\obj\Debug\HelloCShrarp.pdb

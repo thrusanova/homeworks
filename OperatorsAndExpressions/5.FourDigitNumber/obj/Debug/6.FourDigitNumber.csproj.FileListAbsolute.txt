@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\5.FourDigitNumber\bin\Debug\5.FourDigitNumber.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\5.FourDigitNumber\obj\Debug\5.FourDigitNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\5.FourDigitNumber\obj\Debug\5.FourDigitNumber.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\5.FourDigitNumber\bin\Debug\5.FourDigitNumber.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\5.FourDigitNumber\obj\Debug\5.FourDigitNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\5.FourDigitNumber\obj\Debug\5.FourDigitNumber.pdb

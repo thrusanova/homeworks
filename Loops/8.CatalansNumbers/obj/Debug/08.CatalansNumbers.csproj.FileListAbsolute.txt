@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\8.CatalansNumbers\bin\Debug\8.CatalansNumbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\8.CatalansNumbers\bin\Debug\8.CatalansNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\8.CatalansNumbers\bin\Debug\8.CatalansNumbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\8.CatalansNumbers\obj\Debug\8.CatalansNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\8.CatalansNumbers\obj\Debug\8.CatalansNumbers.pdb

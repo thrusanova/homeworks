@@ -1,0 +1,12 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Intro-Programming-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Intro-Programming-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.csprojResolveAssemblyReference.cache

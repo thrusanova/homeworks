@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\06.The BiggestOfFiveNumbers\bin\Debug\06.The BiggestOfFiveNumbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\06.The BiggestOfFiveNumbers\bin\Debug\06.The BiggestOfFiveNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\06.The BiggestOfFiveNumbers\bin\Debug\06.The BiggestOfFiveNumbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\06.The BiggestOfFiveNumbers\obj\Debug\06.The BiggestOfFiveNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\06.The BiggestOfFiveNumbers\obj\Debug\06.The BiggestOfFiveNumbers.pdb

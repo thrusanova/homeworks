@@ -1,0 +1,9 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\2. Gravitation on the Moon\bin\Debug\_2.Gravitation_on_the_Moon.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\2. Gravitation on the Moon\bin\Debug\_2.Gravitation_on_the_Moon.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\2. Gravitation on the Moon\bin\Debug\_2.Gravitation_on_the_Moon.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\2. Gravitation on the Moon\obj\Debug\2. Gravitation on the Moon.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\2. Gravitation on the Moon\obj\Debug\_2.Gravitation_on_the_Moon.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\2. Gravitation on the Moon\obj\Debug\_2.Gravitation_on_the_Moon.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\2. Gravitation on the Moon\bin\Debug\_2.Gravitation_on_the_Moon.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\2. Gravitation on the Moon\obj\Debug\_2.Gravitation_on_the_Moon.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\2. Gravitation on the Moon\obj\Debug\_2.Gravitation_on_the_Moon.pdb

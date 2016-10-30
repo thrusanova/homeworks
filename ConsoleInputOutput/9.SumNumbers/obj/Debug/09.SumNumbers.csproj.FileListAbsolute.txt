@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\9.SumNumbers\bin\Debug\9.SumNumbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\9.SumNumbers\obj\Debug\9.SumNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\9.SumNumbers\obj\Debug\9.SumNumbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\9.SumNumbers\bin\Debug\9.SumNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\9.SumNumbers\bin\Debug\9.SumNumbers.pdb

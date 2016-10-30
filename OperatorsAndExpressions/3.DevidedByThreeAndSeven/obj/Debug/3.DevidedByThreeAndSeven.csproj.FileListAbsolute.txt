@@ -1,0 +1,8 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\3.DevidedByThreeAndSeven\bin\Debug\3.DevidedByThreeAndSeven.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\3.DevidedByThreeAndSeven\bin\Debug\3.DevidedByThreeAndSeven.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\3.DevidedByThreeAndSeven\bin\Debug\3.DevidedByThreeAndSeven.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\3.DevidedByThreeAndSeven\obj\Debug\3.DevidedByThreeAndSeven.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\3.DevidedByThreeAndSeven\obj\Debug\3.DevidedByThreeAndSeven.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\3.DevidedByThreeAndSeven\bin\Debug\3.DevidedByThreeAndSeven.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\3.DevidedByThreeAndSeven\obj\Debug\3.DevidedByThreeAndSeven.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\3.DevidedByThreeAndSeven\obj\Debug\3.DevidedByThreeAndSeven.pdb

@@ -1,0 +1,10 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11.NumbersIntervalDividable\bin\Debug\11.NumbersIntervalDividable.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11.NumbersIntervalDividable\bin\Debug\11.NumbersIntervalDividable.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11.NumbersIntervalDividable\bin\Debug\11.NumbersIntervalDividable.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11.NumbersIntervalDividable\obj\Debug\11.NumbersIntervalDividable.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11.NumbersIntervalDividable\obj\Debug\11.NumbersIntervalDividable.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\11.NumbersIntervalDividable\bin\Debug\11.NumbersIntervalDividable.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\11.NumbersIntervalDividable\obj\Debug\11.NumbersIntervalDividable.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\11.NumbersIntervalDividable\obj\Debug\11.NumbersIntervalDividable.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\11.NumbersIntervalDividable\bin\Debug\11.NumbersIntervalDividable.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\11.NumbersIntervalDividable\bin\Debug\11.NumbersIntervalDividable.pdb

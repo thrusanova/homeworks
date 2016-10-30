@@ -1,0 +1,8 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\11.ZiroNumbers\bin\Debug\11.ZiroNumbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\11.ZiroNumbers\bin\Debug\11.ZiroNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\11.ZiroNumbers\bin\Debug\11.ZiroNumbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\11.ZiroNumbers\obj\Debug\11.ZiroNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\11.ZiroNumbers\obj\Debug\11.ZiroNumbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\11.ZiroNumbers\bin\Debug\11.ZiroNumbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\11.ZiroNumbers\obj\Debug\11.ZiroNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\11.ZiroNumbers\obj\Debug\11.ZiroNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\7.Sum5 Numbers\bin\Debug\7.Sum5 Numbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\7.Sum5 Numbers\bin\Debug\7.Sum5 Numbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\7.Sum5 Numbers\bin\Debug\7.Sum5 Numbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\7.Sum5 Numbers\obj\Debug\7.Sum5 Numbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\7.Sum5 Numbers\obj\Debug\7.Sum5 Numbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\7.Sum5 Numbers\obj\Debug\07.SumFiveNumbers.csprojResolveAssemblyReference.cache

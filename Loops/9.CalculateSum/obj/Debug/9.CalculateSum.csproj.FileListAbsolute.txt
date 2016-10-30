@@ -1,0 +1,9 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\9.CalculateSum\bin\Debug\9.CalculateSum.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\9.CalculateSum\bin\Debug\9.CalculateSum.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\9.CalculateSum\bin\Debug\9.CalculateSum.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\9.CalculateSum\obj\Debug\9.CalculateSum.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\9.CalculateSum\obj\Debug\9.CalculateSum.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\9.CalculateSum\obj\Debug\9.CalculateSum.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\9.CalculateSum\bin\Debug\9.CalculateSum.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\9.CalculateSum\obj\Debug\9.CalculateSum.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\9.CalculateSum\obj\Debug\9.CalculateSum.pdb

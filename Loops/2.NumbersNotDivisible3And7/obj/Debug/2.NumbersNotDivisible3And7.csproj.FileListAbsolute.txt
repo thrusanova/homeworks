@@ -1,0 +1,8 @@
+c:\Users\tanya\documents\visual studio 2013\Projects\Loops\2.NumbersNotDivisible3And7\bin\Debug\2.NumbersNotDivisible3And7.exe.config
+c:\Users\tanya\documents\visual studio 2013\Projects\Loops\2.NumbersNotDivisible3And7\bin\Debug\2.NumbersNotDivisible3And7.exe
+c:\Users\tanya\documents\visual studio 2013\Projects\Loops\2.NumbersNotDivisible3And7\bin\Debug\2.NumbersNotDivisible3And7.pdb
+c:\Users\tanya\documents\visual studio 2013\Projects\Loops\2.NumbersNotDivisible3And7\obj\Debug\2.NumbersNotDivisible3And7.exe
+c:\Users\tanya\documents\visual studio 2013\Projects\Loops\2.NumbersNotDivisible3And7\obj\Debug\2.NumbersNotDivisible3And7.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\2.NumbersNotDivisible3And7\bin\Debug\2.NumbersNotDivisible3And7.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\2.NumbersNotDivisible3And7\obj\Debug\2.NumbersNotDivisible3And7.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\2.NumbersNotDivisible3And7\obj\Debug\2.NumbersNotDivisible3And7.pdb

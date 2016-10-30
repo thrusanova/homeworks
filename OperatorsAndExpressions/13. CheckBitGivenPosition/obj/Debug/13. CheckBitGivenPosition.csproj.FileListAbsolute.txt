@@ -1,0 +1,12 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\13. CheckBitGivenPosition\bin\Debug\_13.CheckBitGivenPosition.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\13. CheckBitGivenPosition\bin\Debug\_13.CheckBitGivenPosition.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\13. CheckBitGivenPosition\bin\Debug\_13.CheckBitGivenPosition.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\13. CheckBitGivenPosition\obj\Debug\13. CheckBitGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\13. CheckBitGivenPosition\obj\Debug\_13.CheckBitGivenPosition.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\13. CheckBitGivenPosition\obj\Debug\_13.CheckBitGivenPosition.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\13. CheckBitGivenPosition\bin\Debug\_13.CheckBitGivenPosition.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\13. CheckBitGivenPosition\obj\Debug\_13.CheckBitGivenPosition.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\13. CheckBitGivenPosition\obj\Debug\_13.CheckBitGivenPosition.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\13. CheckBitGivenPosition\bin\Debug\_13.CheckBitGivenPosition.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\13. CheckBitGivenPosition\bin\Debug\_13.CheckBitGivenPosition.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\13. CheckBitGivenPosition\obj\Debug\13. CheckBitGivenPosition.csprojResolveAssemblyReference.cache

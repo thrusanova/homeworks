@@ -1,0 +1,9 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\conditionalStatement\2.BonusScore\bin\Debug\2.BonusScore.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\conditionalStatement\2.BonusScore\bin\Debug\2.BonusScore.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\conditionalStatement\2.BonusScore\bin\Debug\2.BonusScore.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\conditionalStatement\2.BonusScore\obj\Debug\2.BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\conditionalStatement\2.BonusScore\obj\Debug\2.BonusScore.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\conditionalStatement\2.BonusScore\obj\Debug\2.BonusScore.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\2.BonusScore\bin\Debug\2.BonusScore.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\2.BonusScore\obj\Debug\2.BonusScore.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\2.BonusScore\obj\Debug\2.BonusScore.pdb

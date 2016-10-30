@@ -1,0 +1,8 @@
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\05.StringAndObject\bin\Debug\05.StringAndObject.exe.config
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\05.StringAndObject\bin\Debug\05.StringAndObject.exe
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\05.StringAndObject\bin\Debug\05.StringAndObject.pdb
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\05.StringAndObject\obj\Debug\05.StringAndObject.exe
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\05.StringAndObject\obj\Debug\05.StringAndObject.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\PrimitiveDataTypesAndVariables\05.StringAndObject\bin\Debug\05.StringAndObject.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\PrimitiveDataTypesAndVariables\05.StringAndObject\obj\Debug\05.StringAndObject.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\PrimitiveDataTypesAndVariables\05.StringAndObject\obj\Debug\05.StringAndObject.pdb

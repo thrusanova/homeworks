@@ -1,0 +1,5 @@
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

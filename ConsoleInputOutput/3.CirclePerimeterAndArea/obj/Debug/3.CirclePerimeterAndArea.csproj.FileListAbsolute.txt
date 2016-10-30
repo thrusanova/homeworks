@@ -1,0 +1,9 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\3\bin\Debug\3.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\3\bin\Debug\3.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\3\bin\Debug\3.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\3\obj\Debug\3.CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\3\obj\Debug\3.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\3\obj\Debug\3.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\3\bin\Debug\3.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\3\obj\Debug\3.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\3\obj\Debug\3.pdb
