@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\3.MinMaxAverageSum\bin\Debug\3.MinMaxAverageSum.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\3.MinMaxAverageSum\obj\Debug\3.MinMaxAverageSum.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\3.MinMaxAverageSum\obj\Debug\3.MinMaxAverageSum.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\3.MinMaxAverageSum\bin\Debug\3.MinMaxAverageSum.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\3.MinMaxAverageSum\bin\Debug\3.MinMaxAverageSum.pdb

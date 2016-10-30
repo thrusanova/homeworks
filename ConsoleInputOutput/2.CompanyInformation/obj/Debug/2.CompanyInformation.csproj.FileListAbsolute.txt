@@ -1,0 +1,9 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\2.CompanyInformation\bin\Debug\2.CompanyInformation.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\2.CompanyInformation\bin\Debug\2.CompanyInformation.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\2.CompanyInformation\bin\Debug\2.CompanyInformation.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\2.CompanyInformation\obj\Debug\2.CompanyInformation.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\2.CompanyInformation\obj\Debug\2.CompanyInformation.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\2.CompanyInformation\obj\Debug\2.CompanyInformation.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\2.CompanyInformation\bin\Debug\2.CompanyInformation.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\2.CompanyInformation\obj\Debug\2.CompanyInformation.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\2.CompanyInformation\obj\Debug\2.CompanyInformation.pdb

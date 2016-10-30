@@ -1,0 +1,9 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\7\bin\Debug\7.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\7\obj\Debug\7.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\7\obj\Debug\7.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\7\bin\Debug\7.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\7\bin\Debug\7.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\7\obj\Debug\7.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\7\bin\Debug\7.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\7\obj\Debug\7.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\7\obj\Debug\7.pdb

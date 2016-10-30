@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.pdb

@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\8.IntDoubleString\bin\Debug\8.IntDoubleString.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\8.IntDoubleString\obj\Debug\8.IntDoubleString.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\8.IntDoubleString\obj\Debug\8.IntDoubleString.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\8.IntDoubleString\bin\Debug\8.IntDoubleString.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\8.IntDoubleString\bin\Debug\8.IntDoubleString.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\8.IntDoubleString\obj\Debug\09.IntDoubleString.csprojResolveAssemblyReference.cache

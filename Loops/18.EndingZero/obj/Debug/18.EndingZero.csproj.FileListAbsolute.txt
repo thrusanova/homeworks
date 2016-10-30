@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\18.EndingZero\bin\Debug\18.EndingZero.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\18.EndingZero\bin\Debug\18.EndingZero.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\18.EndingZero\bin\Debug\18.EndingZero.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\18.EndingZero\obj\Debug\18.EndingZero.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\18.EndingZero\obj\Debug\18.EndingZero.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\18.EndingZero\obj\Debug\18.EndingZero.csprojResolveAssemblyReference.cache

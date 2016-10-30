@@ -1,0 +1,8 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb

@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\11.DecimalToBinary\bin\Debug\11.DecimalToBinary.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\11.DecimalToBinary\bin\Debug\11.DecimalToBinary.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\11.DecimalToBinary\bin\Debug\11.DecimalToBinary.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\11.DecimalToBinary\obj\Debug\11.DecimalToBinary.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\11.DecimalToBinary\obj\Debug\11.DecimalToBinary.pdb

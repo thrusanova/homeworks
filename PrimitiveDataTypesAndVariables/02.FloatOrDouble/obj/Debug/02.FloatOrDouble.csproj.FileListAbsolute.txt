@@ -1,0 +1,8 @@
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\PrimitiveDataTypesAndVariables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\PrimitiveDataTypesAndVariables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\PrimitiveDataTypesAndVariables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

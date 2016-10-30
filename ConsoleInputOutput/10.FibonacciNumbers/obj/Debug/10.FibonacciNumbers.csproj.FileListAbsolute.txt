@@ -1,0 +1,12 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\3.CheckPlayCard\bin\Debug\3.CheckPlayCard.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\3.CheckPlayCard\obj\Debug\3.CheckPlayCard.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\3.CheckPlayCard\obj\Debug\3.CheckPlayCard.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\3.CheckPlayCard\bin\Debug\3.CheckPlayCard.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\3.CheckPlayCard\bin\Debug\3.CheckPlayCard.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\3.CheckPlayCard\obj\Debug\03.CheckPlayCard.csprojResolveAssemblyReference.cache

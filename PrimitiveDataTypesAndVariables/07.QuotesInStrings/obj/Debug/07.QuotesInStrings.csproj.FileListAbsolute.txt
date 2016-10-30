@@ -1,0 +1,5 @@
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb

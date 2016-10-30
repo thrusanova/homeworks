@@ -1,0 +1,12 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\12. ExtractBitFromInteger\obj\Debug\12. ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\12. ExtractBitFromInteger\obj\Debug\12. ExtractBitFromInteger.csprojResolveAssemblyReference.cache

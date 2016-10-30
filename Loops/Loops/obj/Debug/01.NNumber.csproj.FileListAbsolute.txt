@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\Loops\obj\Debug\01.NNumber.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\Loops\obj\Debug\Loops.pdb

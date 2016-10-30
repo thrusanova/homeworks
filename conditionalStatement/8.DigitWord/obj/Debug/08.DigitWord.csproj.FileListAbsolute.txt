@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\8.DigitWord\bin\Debug\8.DigitWord.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\8.DigitWord\obj\Debug\8.DigitWord.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\8.DigitWord\obj\Debug\8.DigitWord.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\8.DigitWord\bin\Debug\8.DigitWord.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\8.DigitWord\bin\Debug\8.DigitWord.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\conditionalStatement\8.DigitWord\obj\Debug\08.DigitWord.csprojResolveAssemblyReference.cache

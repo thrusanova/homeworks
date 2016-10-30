@@ -1,0 +1,9 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\5\bin\Debug\5.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\5\bin\Debug\5.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\5\bin\Debug\5.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\5\obj\Debug\6.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\5\obj\Debug\5.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\5\obj\Debug\5.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\5\bin\Debug\5.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\5\obj\Debug\5.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\5\obj\Debug\5.pdb

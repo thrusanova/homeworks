@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\MyBirthday\bin\Debug\MyBirthday.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\MyBirthday\obj\Debug\MyBirthday.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\MyBirthday\bin\Debug\MyBirthday.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\MyBirthday\bin\Debug\MyBirthday.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\MyBirthday\obj\Debug\MyBirthday.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\MyBirthday\obj\Debug\MyBirthday.pdb

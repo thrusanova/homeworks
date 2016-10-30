@@ -1,0 +1,8 @@
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\04.Unicode Character\bin\Debug\04.Unicode Character.exe.config
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\04.Unicode Character\bin\Debug\04.Unicode Character.exe
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\04.Unicode Character\bin\Debug\04.Unicode Character.pdb
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\04.Unicode Character\obj\Debug\04.Unicode Character.exe
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\04.Unicode Character\obj\Debug\04.Unicode Character.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\PrimitiveDataTypesAndVariables\04.Unicode Character\bin\Debug\04.Unicode Character.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\PrimitiveDataTypesAndVariables\04.Unicode Character\obj\Debug\04.Unicode Character.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\PrimitiveDataTypesAndVariables\04.Unicode Character\obj\Debug\04.Unicode Character.pdb

@@ -1,0 +1,12 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\11.Bitwise\bin\Debug\11.Bitwise.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\11.Bitwise\bin\Debug\11.Bitwise.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\11.Bitwise\bin\Debug\11.Bitwise.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\11.Bitwise\obj\Debug\11.Bitwise.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\11.Bitwise\obj\Debug\11.Bitwise.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\OperatorsExpressionsАndStatements\11.Bitwise\obj\Debug\11.Bitwise.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\11.Bitwise\bin\Debug\11.Bitwise.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\11.Bitwise\obj\Debug\11.Bitwise.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\11.Bitwise\obj\Debug\11.Bitwise.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\11.Bitwise\bin\Debug\11.Bitwise.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\11.Bitwise\bin\Debug\11.Bitwise.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\11.Bitwise\obj\Debug\11.Bitwise.csprojResolveAssemblyReference.cache

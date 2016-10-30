@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\4.52cards\bin\Debug\4.52cards.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\4.52cards\bin\Debug\4.52cards.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\4.52cards\bin\Debug\4.52cards.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\4.52cards\obj\Debug\4.52cards.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\4.52cards\obj\Debug\4.52cards.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\4.52cards\obj\Debug\04.FiftyFiveCards.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\4.Фибонацхи\bin\Debug\4.Фибонацхи.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\4.Фибонацхи\obj\Debug\4.Фибонацхи.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\4.Фибонацхи\obj\Debug\4.Фибонацхи.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\4.Фибонацхи\bin\Debug\4.Фибонацхи.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\4.Фибонацхи\bin\Debug\4.Фибонацхи.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\4.Фибонацхи\obj\Debug\16.DecimalToHex.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\9.Trapezoids\bin\Debug\9.Trapezoids.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\9.Trapezoids\bin\Debug\9.Trapezoids.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\9.Trapezoids\bin\Debug\9.Trapezoids.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\9.Trapezoids\obj\Debug\9.Trapezoids.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\9.Trapezoids\obj\Debug\9.Trapezoids.pdb

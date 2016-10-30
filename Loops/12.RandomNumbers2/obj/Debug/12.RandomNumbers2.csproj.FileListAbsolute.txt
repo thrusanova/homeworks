@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\12.RandomNumbers2\bin\Debug\12.RandomNumbers2.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\12.RandomNumbers2\bin\Debug\12.RandomNumbers2.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\12.RandomNumbers2\bin\Debug\12.RandomNumbers2.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\12.RandomNumbers2\obj\Debug\12.RandomNumbers2.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\12.RandomNumbers2\obj\Debug\12.RandomNumbers2.pdb

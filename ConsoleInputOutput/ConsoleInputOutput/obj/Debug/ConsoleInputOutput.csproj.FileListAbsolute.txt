@@ -1,0 +1,9 @@
+c:\users\tanya\documents\visual studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe.config
+c:\users\tanya\documents\visual studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.csprojResolveAssemblyReference.cache
+c:\users\tanya\documents\visual studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe
+c:\users\tanya\documents\visual studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.pdb
+c:\users\tanya\documents\visual studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.exe
+c:\users\tanya\documents\visual studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.pdb

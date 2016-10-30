@@ -1,0 +1,12 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\10.Matrix\bin\Debug\10.Matrix.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\10.Matrix\bin\Debug\10.Matrix.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\10.Matrix\bin\Debug\10.Matrix.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\10.Matrix\obj\Debug\10.Matrix.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\10.Matrix\obj\Debug\10.Matrix.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Loops\10.Matrix\obj\Debug\10.Matrix.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\10.Matrix\bin\Debug\10.Matrix.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\10.Matrix\obj\Debug\10.Matrix.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\10.Matrix\obj\Debug\10.Matrix.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\10.Matrix\bin\Debug\10.Matrix.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\10.Matrix\bin\Debug\10.Matrix.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\Loops\10.Matrix\obj\Debug\10.Matrix.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe.config
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.pdb
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+c:\users\tanya\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\PrimitiveDataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.csprojResolveAssemblyReference.cache

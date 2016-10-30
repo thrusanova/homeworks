@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\01.OddOrEvenNumber\bin\Debug\01.OddOrEvenNumber.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\01.OddOrEvenNumber\bin\Debug\01.OddOrEvenNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\01.OddOrEvenNumber\bin\Debug\01.OddOrEvenNumber.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\01.OddOrEvenNumber\obj\Debug\01.OddOrEvenNumber.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\01.OddOrEvenNumber\obj\Debug\01.OddOrEvenNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#1\OperatorsAndExpressions\01.OddOrEvenNumber\obj\Debug\01.OddOrEvenNumber.pdb
