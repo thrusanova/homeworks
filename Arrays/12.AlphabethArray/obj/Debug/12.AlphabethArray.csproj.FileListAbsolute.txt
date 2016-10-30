@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\12.AlphabethArray\bin\Debug\12.AlphabethArray.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\12.AlphabethArray\bin\Debug\12.AlphabethArray.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\12.AlphabethArray\bin\Debug\12.AlphabethArray.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\12.AlphabethArray\obj\Debug\12.AlphabethArray.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\12.AlphabethArray\obj\Debug\12.AlphabethArray.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\12.AlphabethArray\obj\Debug\12.AlphabethArray.pdb

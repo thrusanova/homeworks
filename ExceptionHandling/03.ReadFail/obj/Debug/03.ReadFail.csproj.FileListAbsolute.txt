@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\03.ReadFail\bin\Debug\03.ReadFail.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\03.ReadFail\bin\Debug\03.ReadFail.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\03.ReadFail\bin\Debug\03.ReadFail.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\03.ReadFail\obj\Debug\03.ReadFail.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\03.ReadFail\obj\Debug\03.ReadFail.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\03.ReadFail\obj\Debug\03.ReadFail.pdb

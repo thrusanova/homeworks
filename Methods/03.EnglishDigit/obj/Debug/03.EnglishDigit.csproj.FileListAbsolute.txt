@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.pdb

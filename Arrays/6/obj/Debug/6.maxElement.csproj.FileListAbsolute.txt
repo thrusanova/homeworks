@@ -1,0 +1,11 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Arrays\6\bin\Debug\6.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Arrays\6\bin\Debug\6.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Arrays\6\bin\Debug\6.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Arrays\6\obj\Debug\6.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Arrays\6\obj\Debug\6.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\6\bin\Debug\6.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\6\obj\Debug\6.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\6\obj\Debug\6.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\6\obj\Debug\6.maxElement.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\6\bin\Debug\6.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\6\bin\Debug\6.pdb

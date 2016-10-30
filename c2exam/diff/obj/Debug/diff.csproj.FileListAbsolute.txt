@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\diff\bin\Debug\diff.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\diff\bin\Debug\diff.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\diff\bin\Debug\diff.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\diff\obj\Debug\diff.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\diff\obj\Debug\diff.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\diff\obj\Debug\diff.csprojResolveAssemblyReference.cache

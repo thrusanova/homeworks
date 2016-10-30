@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\04.BinarySearch\bin\Debug\04.BinarySearch.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\04.BinarySearch\bin\Debug\04.BinarySearch.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\04.BinarySearch\bin\Debug\04.BinarySearch.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\04.BinarySearch\obj\Debug\04.BinarySearch.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\04.BinarySearch\obj\Debug\04.BinarySearch.pdb

@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\09.DeleteOddLine\bin\Debug\09.DeleteOddLine.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\09.DeleteOddLine\bin\Debug\09.DeleteOddLine.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\09.DeleteOddLine\bin\Debug\09.DeleteOddLine.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\09.DeleteOddLine\obj\Debug\09.DeleteOddLine.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\09.DeleteOddLine\obj\Debug\09.DeleteOddLine.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\09.DeleteOddLine\obj\Debug\09.DeleteOddLine.pdb

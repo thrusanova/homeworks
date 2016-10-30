@@ -1,0 +1,12 @@
+c:\Users\tanya\documents\visual studio 2013\Projects\Arrays\ArrayIncrease\bin\Debug\ArrayIncrease.exe.config
+c:\Users\tanya\documents\visual studio 2013\Projects\Arrays\ArrayIncrease\obj\Debug\5.ArrayIncrease.csprojResolveAssemblyReference.cache
+c:\Users\tanya\documents\visual studio 2013\Projects\Arrays\ArrayIncrease\bin\Debug\ArrayIncrease.exe
+c:\Users\tanya\documents\visual studio 2013\Projects\Arrays\ArrayIncrease\bin\Debug\ArrayIncrease.pdb
+c:\Users\tanya\documents\visual studio 2013\Projects\Arrays\ArrayIncrease\obj\Debug\ArrayIncrease.exe
+c:\Users\tanya\documents\visual studio 2013\Projects\Arrays\ArrayIncrease\obj\Debug\ArrayIncrease.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\ArrayIncrease\bin\Debug\ArrayIncrease.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\ArrayIncrease\obj\Debug\ArrayIncrease.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\ArrayIncrease\obj\Debug\ArrayIncrease.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\ArrayIncrease\bin\Debug\ArrayIncrease.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\ArrayIncrease\bin\Debug\ArrayIncrease.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\ArrayIncrease\obj\Debug\5.ArrayIncrease.csprojResolveAssemblyReference.cache

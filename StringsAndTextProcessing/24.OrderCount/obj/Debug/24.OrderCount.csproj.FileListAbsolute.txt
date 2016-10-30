@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\24.OrderCount\bin\Debug\24.OrderCount.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\24.OrderCount\bin\Debug\24.OrderCount.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\24.OrderCount\bin\Debug\24.OrderCount.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\24.OrderCount\obj\Debug\24.OrderCount.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\24.OrderCount\obj\Debug\24.OrderCount.pdb

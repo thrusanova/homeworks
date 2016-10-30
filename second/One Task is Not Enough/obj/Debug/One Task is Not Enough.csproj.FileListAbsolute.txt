@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\One Task is Not Enough\bin\Debug\One Task is Not Enough.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\One Task is Not Enough\bin\Debug\One Task is Not Enough.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\One Task is Not Enough\bin\Debug\One Task is Not Enough.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\One Task is Not Enough\obj\Debug\One Task is Not Enough.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\One Task is Not Enough\obj\Debug\One Task is Not Enough.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\One Task is Not Enough\obj\Debug\One Task is Not Enough.pdb

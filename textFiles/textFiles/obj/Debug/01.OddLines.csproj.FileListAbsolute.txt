@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\textFiles\bin\Debug\textFiles.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\textFiles\bin\Debug\textFiles.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\textFiles\bin\Debug\textFiles.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\textFiles\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\textFiles\obj\Debug\textFiles.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\textFiles\obj\Debug\textFiles.pdb

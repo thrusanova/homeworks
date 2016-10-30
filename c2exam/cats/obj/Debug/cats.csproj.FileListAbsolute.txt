@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\cats\bin\Debug\cats.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\cats\bin\Debug\cats.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\cats\bin\Debug\cats.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\cats\obj\Debug\cats.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\cats\obj\Debug\cats.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\cats\obj\Debug\cats.pdb

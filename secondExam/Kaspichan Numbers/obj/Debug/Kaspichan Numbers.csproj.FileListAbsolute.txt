@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Kaspichan Numbers\bin\Debug\Kaspichan Numbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Kaspichan Numbers\bin\Debug\Kaspichan Numbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Kaspichan Numbers\bin\Debug\Kaspichan Numbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Kaspichan Numbers\obj\Debug\Kaspichan Numbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Kaspichan Numbers\obj\Debug\Kaspichan Numbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Kaspichan Numbers\obj\Debug\Kaspichan Numbers.csprojResolveAssemblyReference.cache

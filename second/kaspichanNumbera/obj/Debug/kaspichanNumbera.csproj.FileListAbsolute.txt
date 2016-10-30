@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\kaspichanNumbera\bin\Debug\kaspichanNumbera.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\kaspichanNumbera\bin\Debug\kaspichanNumbera.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\kaspichanNumbera\bin\Debug\kaspichanNumbera.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\kaspichanNumbera\obj\Debug\kaspichanNumbera.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\kaspichanNumbera\obj\Debug\kaspichanNumbera.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\kaspichanNumbera\obj\Debug\kaspichanNumbera.csprojResolveAssemblyReference.cache

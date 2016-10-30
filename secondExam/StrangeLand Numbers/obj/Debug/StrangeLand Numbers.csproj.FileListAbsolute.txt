@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\StrangeLand Numbers\bin\Debug\StrangeLand Numbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\StrangeLand Numbers\bin\Debug\StrangeLand Numbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\StrangeLand Numbers\bin\Debug\StrangeLand Numbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\StrangeLand Numbers\obj\Debug\StrangeLand Numbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\StrangeLand Numbers\obj\Debug\StrangeLand Numbers.pdb

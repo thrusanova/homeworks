@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\moliDoli\bin\Debug\moliDoli.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\moliDoli\bin\Debug\moliDoli.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\moliDoli\bin\Debug\moliDoli.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\moliDoli\obj\Debug\moliDoli.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\moliDoli\obj\Debug\moliDoli.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\moliDoli\obj\Debug\moliDoli.pdb

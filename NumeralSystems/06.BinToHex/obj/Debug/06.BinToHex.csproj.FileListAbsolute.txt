@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\06.BinToHex\bin\Debug\06.BinToHex.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\06.BinToHex\bin\Debug\06.BinToHex.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\06.BinToHex\bin\Debug\06.BinToHex.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\06.BinToHex\obj\Debug\06.BinToHex.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\06.BinToHex\obj\Debug\06.BinToHex.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\06.BinToHex\obj\Debug\06.BinToHex.pdb

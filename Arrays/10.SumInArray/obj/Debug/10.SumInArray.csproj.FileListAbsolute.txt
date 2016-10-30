@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\10.SumInArray\bin\Debug\10.SumInArray.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\10.SumInArray\bin\Debug\10.SumInArray.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\10.SumInArray\bin\Debug\10.SumInArray.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\10.SumInArray\obj\Debug\10.SumInArray.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\10.SumInArray\obj\Debug\10.SumInArray.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\10.SumInArray\obj\Debug\10.SumInArray.pdb

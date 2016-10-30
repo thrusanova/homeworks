@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\basicLanguage\bin\Debug\basicLanguage.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\basicLanguage\bin\Debug\basicLanguage.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\basicLanguage\bin\Debug\basicLanguage.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\basicLanguage\obj\Debug\basicLanguage.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\basicLanguage\obj\Debug\basicLanguage.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\basicLanguage\obj\Debug\basicLanguage.csprojResolveAssemblyReference.cache

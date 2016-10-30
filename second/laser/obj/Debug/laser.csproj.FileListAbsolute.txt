@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\laser\bin\Debug\laser.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\laser\bin\Debug\laser.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\laser\bin\Debug\laser.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\laser\obj\Debug\laser.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\laser\obj\Debug\laser.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\laser\obj\Debug\laser.pdb

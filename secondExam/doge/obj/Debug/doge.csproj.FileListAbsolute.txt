@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\doge\bin\Debug\doge.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\doge\bin\Debug\doge.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\doge\bin\Debug\doge.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\doge\obj\Debug\doge.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\doge\obj\Debug\doge.pdb

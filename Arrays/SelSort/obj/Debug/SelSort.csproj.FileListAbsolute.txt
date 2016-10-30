@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\SelSort\bin\Debug\SelSort.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\SelSort\bin\Debug\SelSort.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\SelSort\bin\Debug\SelSort.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\SelSort\obj\Debug\SelSort.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\SelSort\obj\Debug\SelSort.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\SelSort\obj\Debug\SelSort.pdb

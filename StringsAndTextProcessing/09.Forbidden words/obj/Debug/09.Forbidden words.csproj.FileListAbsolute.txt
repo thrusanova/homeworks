@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\09.Forbidden words\bin\Debug\09.Forbidden words.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\09.Forbidden words\bin\Debug\09.Forbidden words.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\09.Forbidden words\bin\Debug\09.Forbidden words.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\09.Forbidden words\obj\Debug\09.Forbidden words.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\09.Forbidden words\obj\Debug\09.Forbidden words.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\09.Forbidden words\obj\Debug\09.Forbidden words.pdb

@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\tres4a\bin\Debug\tres4a.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\tres4a\bin\Debug\tres4a.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\tres4a\bin\Debug\tres4a.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\tres4a\obj\Debug\tres4a.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\tres4a\obj\Debug\tres4a.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\tres4a\obj\Debug\tres4a.pdb

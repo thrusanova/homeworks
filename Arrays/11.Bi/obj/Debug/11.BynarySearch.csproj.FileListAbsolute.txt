@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\11.Bi\bin\Debug\11.Bi.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\11.Bi\bin\Debug\11.Bi.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\11.Bi\bin\Debug\11.Bi.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\11.Bi\obj\Debug\11.BynarySearch.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\11.Bi\obj\Debug\11.Bi.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\11.Bi\obj\Debug\11.Bi.pdb

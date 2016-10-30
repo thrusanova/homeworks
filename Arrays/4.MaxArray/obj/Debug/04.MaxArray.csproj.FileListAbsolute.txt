@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\4.MaxArray\bin\Debug\4.MaxArray.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\4.MaxArray\obj\Debug\4.MaxArray.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\4.MaxArray\obj\Debug\4.MaxArray.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\4.MaxArray\bin\Debug\4.MaxArray.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\4.MaxArray\bin\Debug\4.MaxArray.pdb

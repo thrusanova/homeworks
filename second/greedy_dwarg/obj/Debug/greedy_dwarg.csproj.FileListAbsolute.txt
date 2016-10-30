@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\greedy_dwarg\bin\Debug\greedy_dwarg.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\greedy_dwarg\bin\Debug\greedy_dwarg.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\greedy_dwarg\bin\Debug\greedy_dwarg.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\greedy_dwarg\obj\Debug\greedy_dwarg.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\greedy_dwarg\obj\Debug\greedy_dwarg.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\greedy_dwarg\obj\Debug\greedy_dwarg.csprojResolveAssemblyReference.cache

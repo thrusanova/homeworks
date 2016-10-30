@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\Methods\obj\Debug\Methods.pdb

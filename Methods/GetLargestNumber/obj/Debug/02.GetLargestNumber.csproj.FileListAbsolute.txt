@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\GetLargestNumber\bin\Debug\GetLargestNumber.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\GetLargestNumber\bin\Debug\GetLargestNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\GetLargestNumber\bin\Debug\GetLargestNumber.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\GetLargestNumber\obj\Debug\02.GetLargestNumber.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\GetLargestNumber\obj\Debug\GetLargestNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\GetLargestNumber\obj\Debug\GetLargestNumber.pdb

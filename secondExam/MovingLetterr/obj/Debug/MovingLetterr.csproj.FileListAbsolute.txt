@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\MovingLetterr\bin\Debug\MovingLetterr.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\MovingLetterr\bin\Debug\MovingLetterr.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\MovingLetterr\bin\Debug\MovingLetterr.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\MovingLetterr\obj\Debug\MovingLetterr.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\MovingLetterr\obj\Debug\MovingLetterr.pdb

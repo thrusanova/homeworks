@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\ExceptionHandling\obj\Debug\01.SquaeRoot.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

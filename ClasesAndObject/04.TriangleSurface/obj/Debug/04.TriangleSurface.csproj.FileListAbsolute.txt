@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\04.TriangleSurface\bin\Debug\04.TriangleSurface.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\04.TriangleSurface\obj\Debug\04.TriangleSurface.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\04.TriangleSurface\obj\Debug\04.TriangleSurface.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\04.TriangleSurface\obj\Debug\04.TriangleSurface.pdb

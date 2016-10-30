@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\14. IntegerCalculations\bin\Debug\_14.IntegerCalculations.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\14. IntegerCalculations\bin\Debug\_14.IntegerCalculations.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\14. IntegerCalculations\bin\Debug\_14.IntegerCalculations.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\14. IntegerCalculations\obj\Debug\14. IntegerCalculations.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\14. IntegerCalculations\obj\Debug\_14.IntegerCalculations.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\14. IntegerCalculations\obj\Debug\_14.IntegerCalculations.pdb

@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\07.SubString\bin\Debug\07.SubString.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\07.SubString\bin\Debug\07.SubString.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\07.SubString\bin\Debug\07.SubString.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\07.SubString\obj\Debug\07.SubString.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\07.SubString\obj\Debug\07.SubString.pdb

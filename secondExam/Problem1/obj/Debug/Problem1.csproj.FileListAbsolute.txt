@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Problem1\bin\Debug\Problem1.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Problem1\bin\Debug\Problem1.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Problem1\bin\Debug\Problem1.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Problem1\obj\Debug\Problem1.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Problem1\obj\Debug\Problem1.pdb

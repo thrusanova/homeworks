@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\19.Canada\bin\Debug\19.Canada.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\19.Canada\bin\Debug\19.Canada.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\19.Canada\bin\Debug\19.Canada.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\19.Canada\obj\Debug\19.Canada.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\19.Canada\obj\Debug\19.Canada.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\19.Canada\obj\Debug\19.CanadaDate.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\strangeNumber\bin\Debug\strangeNumber.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\strangeNumber\bin\Debug\strangeNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\strangeNumber\bin\Debug\strangeNumber.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\strangeNumber\obj\Debug\strangeNumber.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\strangeNumber\obj\Debug\strangeNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\strangeNumber\obj\Debug\strangeNumber.pdb

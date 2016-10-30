@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\05.StringLength\bin\Debug\05.StringLength.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\05.StringLength\bin\Debug\05.StringLength.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\05.StringLength\bin\Debug\05.StringLength.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\05.StringLength\obj\Debug\05.StringLength.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\05.StringLength\obj\Debug\05.StringLength.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\05.StringLength\obj\Debug\05.StringLength.pdb

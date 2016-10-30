@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\magicWord\bin\Debug\magicWord.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\magicWord\bin\Debug\magicWord.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\magicWord\bin\Debug\magicWord.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\magicWord\obj\Debug\magicWord.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\magicWord\obj\Debug\magicWord.pdb

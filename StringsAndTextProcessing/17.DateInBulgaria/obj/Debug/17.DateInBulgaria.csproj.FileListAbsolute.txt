@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\17.DateInBulgaria\bin\Debug\17.DateInBulgaria.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\17.DateInBulgaria\bin\Debug\17.DateInBulgaria.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\17.DateInBulgaria\bin\Debug\17.DateInBulgaria.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\17.DateInBulgaria\obj\Debug\17.DateInBulgaria.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\17.DateInBulgaria\obj\Debug\17.DateInBulgaria.pdb

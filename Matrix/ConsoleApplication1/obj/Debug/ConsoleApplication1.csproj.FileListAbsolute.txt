@@ -1,0 +1,12 @@
+c:\Users\tanya\documents\visual studio 2013\Projects\Matrix\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\Users\tanya\documents\visual studio 2013\Projects\Matrix\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\Users\tanya\documents\visual studio 2013\Projects\Matrix\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\Users\tanya\documents\visual studio 2013\Projects\Matrix\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\Users\tanya\documents\visual studio 2013\Projects\Matrix\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\Matrix\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb

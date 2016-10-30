@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\Messages in a Bottle\bin\Debug\Messages in a Bottle.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\Messages in a Bottle\bin\Debug\Messages in a Bottle.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\Messages in a Bottle\bin\Debug\Messages in a Bottle.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\Messages in a Bottle\obj\Debug\Messages in a Bottle.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\Messages in a Bottle\obj\Debug\Messages in a Bottle.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\Messages in a Bottle\obj\Debug\Messages in a Bottle.pdb

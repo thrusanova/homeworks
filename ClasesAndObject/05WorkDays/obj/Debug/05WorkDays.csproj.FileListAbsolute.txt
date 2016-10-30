@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\05WorkDays\bin\Debug\05WorkDays.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\05WorkDays\bin\Debug\05WorkDays.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\05WorkDays\bin\Debug\05WorkDays.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\05WorkDays\obj\Debug\05WorkDays.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\05WorkDays\obj\Debug\05WorkDays.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\05WorkDays\obj\Debug\05WorkDays.csprojResolveAssemblyReference.cache

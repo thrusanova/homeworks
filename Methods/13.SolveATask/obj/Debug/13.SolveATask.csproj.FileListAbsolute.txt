@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\13.SolveATask\bin\Debug\13.SolveATask.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\13.SolveATask\bin\Debug\13.SolveATask.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\13.SolveATask\bin\Debug\13.SolveATask.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\13.SolveATask\obj\Debug\13.SolveATask.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\13.SolveATask\obj\Debug\13.SolveATask.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\13.SolveATask\obj\Debug\13.SolveATask.pdb

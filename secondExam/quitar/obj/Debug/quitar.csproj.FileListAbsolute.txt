@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\quitar\bin\Debug\quitar.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\quitar\bin\Debug\quitar.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\quitar\bin\Debug\quitar.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\quitar\obj\Debug\quitar.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\quitar\obj\Debug\quitar.pdb

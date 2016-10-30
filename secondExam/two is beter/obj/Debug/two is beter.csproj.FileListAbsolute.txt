@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\two is beter\bin\Debug\two is beter.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\two is beter\bin\Debug\two is beter.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\two is beter\bin\Debug\two is beter.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\two is beter\obj\Debug\two is beter.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\two is beter\obj\Debug\two is beter.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\two is beter\obj\Debug\two is beter.pdb

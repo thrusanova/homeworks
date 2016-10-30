@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\StringsAndTextProcessing\bin\Debug\StringsAndTextProcessing.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\StringsAndTextProcessing\bin\Debug\StringsAndTextProcessing.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\StringsAndTextProcessing\bin\Debug\StringsAndTextProcessing.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\01.Strings.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\StringsAndTextProcessing.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\StringsAndTextProcessing\obj\Debug\StringsAndTextProcessing.pdb

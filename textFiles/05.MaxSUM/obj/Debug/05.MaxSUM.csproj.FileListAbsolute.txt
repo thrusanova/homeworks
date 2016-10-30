@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\05.MaxSUM\bin\Debug\05.MaxSUM.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\05.MaxSUM\bin\Debug\05.MaxSUM.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\05.MaxSUM\bin\Debug\05.MaxSUM.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\05.MaxSUM\obj\Debug\05.MaxSUM.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\05.MaxSUM\obj\Debug\05.MaxSUM.pdb

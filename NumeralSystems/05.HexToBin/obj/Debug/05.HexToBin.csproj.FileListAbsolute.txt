@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\05.HexToBin\bin\Debug\05.HexToBin.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\05.HexToBin\bin\Debug\05.HexToBin.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\05.HexToBin\bin\Debug\05.HexToBin.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\05.HexToBin\obj\Debug\05.HexToBin.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\05.HexToBin\obj\Debug\05.HexToBin.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\05.HexToBin\obj\Debug\05.HexToBin.pdb

@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\joroTheRabit\bin\Debug\joroTheRabit.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\joroTheRabit\bin\Debug\joroTheRabit.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\joroTheRabit\bin\Debug\joroTheRabit.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\joroTheRabit\obj\Debug\joroTheRabit.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\joroTheRabit\obj\Debug\joroTheRabit.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\joroTheRabit\obj\Debug\joroTheRabit.pdb

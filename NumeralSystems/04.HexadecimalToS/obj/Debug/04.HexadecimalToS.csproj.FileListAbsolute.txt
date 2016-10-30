@@ -1,0 +1,1 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\NumeralSystems\04.HexadecimalToS\bin\Debug\04.HexadecimalToS.exe.config

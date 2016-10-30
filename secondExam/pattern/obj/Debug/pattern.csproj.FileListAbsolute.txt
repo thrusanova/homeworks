@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\pattern\bin\Debug\pattern.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\pattern\bin\Debug\pattern.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\pattern\bin\Debug\pattern.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\pattern\obj\Debug\pattern.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\pattern\obj\Debug\pattern.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\pattern\obj\Debug\pattern.csprojResolveAssemblyReference.cache

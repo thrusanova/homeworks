@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\06.StringLenght\bin\Debug\06.StringLenght.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\06.StringLenght\bin\Debug\06.StringLenght.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\06.StringLenght\bin\Debug\06.StringLenght.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\06.StringLenght\obj\Debug\06.StringLenght.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\06.StringLenght\obj\Debug\06.StringLenght.pdb

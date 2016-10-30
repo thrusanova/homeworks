@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\02.Concatenate\bin\Debug\02.Concatenate.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\02.Concatenate\bin\Debug\02.Concatenate.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\02.Concatenate\bin\Debug\02.Concatenate.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\02.Concatenate\obj\Debug\02.Concatenate.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\02.Concatenate\obj\Debug\02.Concatenate.pdb

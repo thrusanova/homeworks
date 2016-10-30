@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\bunniFactory\bin\Debug\bunniFactory.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\bunniFactory\bin\Debug\bunniFactory.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\bunniFactory\bin\Debug\bunniFactory.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\bunniFactory\obj\Debug\bunniFactory.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\bunniFactory\obj\Debug\bunniFactory.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\bunniFactory\obj\Debug\bunniFactory.pdb

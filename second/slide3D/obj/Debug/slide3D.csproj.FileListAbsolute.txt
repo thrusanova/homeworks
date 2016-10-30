@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\slide3D\bin\Debug\slide3D.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\slide3D\bin\Debug\slide3D.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\slide3D\bin\Debug\slide3D.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\slide3D\obj\Debug\slide3D.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\slide3D\obj\Debug\slide3D.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\slide3D\obj\Debug\slide3D.pdb

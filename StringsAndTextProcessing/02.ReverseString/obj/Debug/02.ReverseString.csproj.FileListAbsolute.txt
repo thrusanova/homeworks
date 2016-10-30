@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\02.ReverseString\bin\Debug\02.ReverseString.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\02.ReverseString\bin\Debug\02.ReverseString.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\02.ReverseString\bin\Debug\02.ReverseString.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\02.ReverseString\obj\Debug\02.ReverseString.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\02.ReverseString\obj\Debug\02.ReverseString.pdb

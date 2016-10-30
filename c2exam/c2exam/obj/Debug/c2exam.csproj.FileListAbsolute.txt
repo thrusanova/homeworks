@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\c2exam\bin\Debug\c2exam.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\c2exam\bin\Debug\c2exam.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\c2exam\bin\Debug\c2exam.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\c2exam\obj\Debug\c2exam.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\c2exam\obj\Debug\c2exam.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\c2exam\c2exam\obj\Debug\c2exam.pdb

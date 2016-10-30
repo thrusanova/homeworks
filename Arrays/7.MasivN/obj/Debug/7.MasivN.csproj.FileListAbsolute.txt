@@ -1,0 +1,9 @@
+C:\Users\tanya\documents\visual studio 2013\Projects\Arrays\7.MasivN\bin\Debug\7.MasivN.exe.config
+C:\Users\tanya\documents\visual studio 2013\Projects\Arrays\7.MasivN\obj\Debug\7.MasivN.csprojResolveAssemblyReference.cache
+C:\Users\tanya\documents\visual studio 2013\Projects\Arrays\7.MasivN\bin\Debug\7.MasivN.exe
+C:\Users\tanya\documents\visual studio 2013\Projects\Arrays\7.MasivN\bin\Debug\7.MasivN.pdb
+C:\Users\tanya\documents\visual studio 2013\Projects\Arrays\7.MasivN\obj\Debug\7.MasivN.exe
+C:\Users\tanya\documents\visual studio 2013\Projects\Arrays\7.MasivN\obj\Debug\7.MasivN.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\7.MasivN\bin\Debug\7.MasivN.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\7.MasivN\obj\Debug\7.MasivN.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\7.MasivN\obj\Debug\7.MasivN.pdb

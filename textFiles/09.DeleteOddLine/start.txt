@@ -1,0 +1,7 @@
+�	Dolly starts at cell 8 and collects 2 flowers.
+�	Dolly moves 2 cells ahead jumping on cell 6.
+�	Dolly is at cell 6 and collects 11 flowers � 13 in total.
+�	Dolly moves 11 cells ahead jumping on cell 3.
+�	Dolly is at cell 3 and collects 4 flowers � 17 in total.
+�	Dolly moves 4 cells ahead jumping on cell 7.
+�	Dolly is at cell 7 and collects 3 flowers � 20 in total.

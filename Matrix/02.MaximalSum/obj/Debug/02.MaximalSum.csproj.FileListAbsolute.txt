@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\02.MaximalSum\obj\Debug\02.MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\02.MaximalSum\obj\Debug\02.MaximalSum.pdb

@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\13.ReversedSentence\bin\Debug\13.ReversedSentence.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\13.ReversedSentence\bin\Debug\13.ReversedSentence.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\13.ReversedSentence\bin\Debug\13.ReversedSentence.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\13.ReversedSentence\obj\Debug\13.ReversedSentence.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\13.ReversedSentence\obj\Debug\13.ReversedSentence.pdb

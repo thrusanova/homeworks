@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\18.ExtractMails\bin\Debug\18.ExtractMails.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\18.ExtractMails\bin\Debug\18.ExtractMails.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\18.ExtractMails\bin\Debug\18.ExtractMails.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\18.ExtractMails\obj\Debug\18.ExtractMails.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\18.ExtractMails\obj\Debug\18.ExtractMails.pdb

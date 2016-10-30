@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\algo\algo\bin\Debug\algo.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\algo\algo\bin\Debug\algo.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\algo\algo\bin\Debug\algo.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\algo\algo\obj\Debug\algo.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\algo\algo\obj\Debug\algo.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\algo\algo\obj\Debug\algo.pdb

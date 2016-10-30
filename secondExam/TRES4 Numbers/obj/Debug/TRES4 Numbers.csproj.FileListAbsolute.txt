@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\TRES4 Numbers\bin\Debug\TRES4 Numbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\TRES4 Numbers\bin\Debug\TRES4 Numbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\TRES4 Numbers\bin\Debug\TRES4 Numbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\TRES4 Numbers\obj\Debug\TRES4 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\TRES4 Numbers\obj\Debug\TRES4 Numbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\TRES4 Numbers\obj\Debug\TRES4 Numbers.pdb

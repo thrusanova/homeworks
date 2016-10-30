@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\15.PrimeNumber\bin\Debug\15.PrimeNumber.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\15.PrimeNumber\bin\Debug\15.PrimeNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\15.PrimeNumber\bin\Debug\15.PrimeNumber.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\15.PrimeNumber\obj\Debug\15.PrimeNumber.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\15.PrimeNumber\obj\Debug\15.PrimeNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\15.PrimeNumber\obj\Debug\15.PrimeNumber.pdb

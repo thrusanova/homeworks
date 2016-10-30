@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\kukata\bin\Debug\kukata.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\kukata\bin\Debug\kukata.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\kukata\bin\Debug\kukata.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\kukata\obj\Debug\kukata.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\kukata\obj\Debug\kukata.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\kukata\obj\Debug\kukata.pdb

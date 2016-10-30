@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\07.ReverseNumber\bin\Debug\07.ReverseNumber.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\07.ReverseNumber\bin\Debug\07.ReverseNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\07.ReverseNumber\bin\Debug\07.ReverseNumber.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\07.ReverseNumber\obj\Debug\07.ReverseNumber.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\07.ReverseNumber\obj\Debug\07.ReverseNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Methods\07.ReverseNumber\obj\Debug\07.ReverseNumber.pdb

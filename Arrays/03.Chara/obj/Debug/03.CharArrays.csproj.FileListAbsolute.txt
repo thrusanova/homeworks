@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\03.Chara\bin\Debug\03.Chara.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\03.Chara\obj\Debug\03.CharArrays.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\03.Chara\bin\Debug\03.Chara.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\03.Chara\bin\Debug\03.Chara.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\03.Chara\obj\Debug\03.Chara.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\03.Chara\obj\Debug\03.Chara.pdb

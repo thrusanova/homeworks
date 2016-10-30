@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Relevance Index\bin\Debug\Relevance Index.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Relevance Index\bin\Debug\Relevance Index.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Relevance Index\bin\Debug\Relevance Index.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Relevance Index\obj\Debug\Relevance Index.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Relevance Index\obj\Debug\Relevance Index.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\Relevance Index\obj\Debug\Relevance Index.csprojResolveAssemblyReference.cache

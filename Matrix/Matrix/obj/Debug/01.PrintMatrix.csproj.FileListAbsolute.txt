@@ -1,0 +1,6 @@
+c:\users\tanya\documents\visual studio 2013\Projects\Matrix\Matrix\bin\Debug\Matrix.exe.config
+c:\users\tanya\documents\visual studio 2013\Projects\Matrix\Matrix\bin\Debug\Matrix.exe
+c:\users\tanya\documents\visual studio 2013\Projects\Matrix\Matrix\bin\Debug\Matrix.pdb
+c:\users\tanya\documents\visual studio 2013\Projects\Matrix\Matrix\obj\Debug\01.PrintMatrix.csprojResolveAssemblyReference.cache
+c:\users\tanya\documents\visual studio 2013\Projects\Matrix\Matrix\obj\Debug\Matrix.exe
+c:\users\tanya\documents\visual studio 2013\Projects\Matrix\Matrix\obj\Debug\Matrix.pdb

@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\ArrayIncrease\bin\Debug\ArrayIncrease.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\ArrayIncrease\obj\Debug\ArrayIncrease.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\ArrayIncrease\obj\Debug\ArrayIncrease.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\ArrayIncrease\bin\Debug\ArrayIncrease.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Arrays\ArrayIncrease\bin\Debug\ArrayIncrease.pdb

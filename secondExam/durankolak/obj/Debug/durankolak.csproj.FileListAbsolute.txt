@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\durankolak\bin\Debug\durankolak.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\durankolak\bin\Debug\durankolak.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\durankolak\bin\Debug\durankolak.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\durankolak\obj\Debug\durankolak.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\durankolak\obj\Debug\durankolak.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\durankolak\obj\Debug\durankolak.pdb

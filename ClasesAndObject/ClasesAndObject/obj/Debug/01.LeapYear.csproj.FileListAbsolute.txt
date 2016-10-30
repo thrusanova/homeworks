@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\ClasesAndObject\bin\Debug\ClasesAndObject.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\ClasesAndObject\bin\Debug\ClasesAndObject.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\ClasesAndObject\bin\Debug\ClasesAndObject.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\ClasesAndObject\obj\Debug\01.LeapYear.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\ClasesAndObject\obj\Debug\ClasesAndObject.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\ClasesAndObject\obj\Debug\ClasesAndObject.pdb

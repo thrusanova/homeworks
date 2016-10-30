@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\11.FormatNumbers\bin\Debug\11.FormatNumbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\11.FormatNumbers\bin\Debug\11.FormatNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\11.FormatNumbers\bin\Debug\11.FormatNumbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\11.FormatNumbers\obj\Debug\11.FormatNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\11.FormatNumbers\obj\Debug\11.FormatNumbers.pdb

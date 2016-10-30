@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\theyAreGreen\bin\Debug\theyAreGreen.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\theyAreGreen\bin\Debug\theyAreGreen.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\theyAreGreen\bin\Debug\theyAreGreen.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\theyAreGreen\obj\Debug\theyAreGreen.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\theyAreGreen\obj\Debug\theyAreGreen.pdb

@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\02.RandomNumber\bin\Debug\02.RandomNumber.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\02.RandomNumber\bin\Debug\02.RandomNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\02.RandomNumber\bin\Debug\02.RandomNumber.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\02.RandomNumber\obj\Debug\02.RandomNumber.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\02.RandomNumber\obj\Debug\02.RandomNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\SumInteger\bin\Debug\SumInteger.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\SumInteger\bin\Debug\SumInteger.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\SumInteger\bin\Debug\SumInteger.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\SumInteger\obj\Debug\SumInteger.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ClasesAndObject\SumInteger\obj\Debug\SumInteger.pdb

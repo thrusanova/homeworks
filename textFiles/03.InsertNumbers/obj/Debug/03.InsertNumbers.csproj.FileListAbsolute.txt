@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\03.InsertNumbers\bin\Debug\03.InsertNumbers.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\03.InsertNumbers\bin\Debug\03.InsertNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\03.InsertNumbers\bin\Debug\03.InsertNumbers.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\03.InsertNumbers\obj\Debug\03.InsertNumbers.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\03.InsertNumbers\obj\Debug\03.InsertNumbers.pdb

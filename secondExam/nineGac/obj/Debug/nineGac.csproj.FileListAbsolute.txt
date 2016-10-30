@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\nineGac\bin\Debug\nineGac.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\nineGac\bin\Debug\nineGac.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\nineGac\bin\Debug\nineGac.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\nineGac\obj\Debug\nineGac.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\nineGac\obj\Debug\nineGac.pdb

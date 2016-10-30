@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\01c.PrintMatrix\bin\Debug\01c.PrintMatrix.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\01c.PrintMatrix\bin\Debug\01c.PrintMatrix.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\01c.PrintMatrix\bin\Debug\01c.PrintMatrix.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\01c.PrintMatrix\obj\Debug\01c.PrintMatrix.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\01c.PrintMatrix\obj\Debug\01c.PrintMatrix.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\Matrix\01c.PrintMatrix\obj\Debug\01c.PrintMatrix.pdb

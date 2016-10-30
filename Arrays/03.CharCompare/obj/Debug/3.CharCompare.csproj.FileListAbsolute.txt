@@ -1,0 +1,6 @@
+c:\Users\tanya\documents\visual studio 2013\Projects\Arrays\3.CharCompare\bin\Debug\3.CharCompare.exe.config
+c:\Users\tanya\documents\visual studio 2013\Projects\Arrays\3.CharCompare\bin\Debug\3.CharCompare.exe
+c:\Users\tanya\documents\visual studio 2013\Projects\Arrays\3.CharCompare\bin\Debug\3.CharCompare.pdb
+c:\Users\tanya\documents\visual studio 2013\Projects\Arrays\3.CharCompare\obj\Debug\3.CharCompare.csprojResolveAssemblyReference.cache
+c:\Users\tanya\documents\visual studio 2013\Projects\Arrays\3.CharCompare\obj\Debug\3.CharCompare.exe
+c:\Users\tanya\documents\visual studio 2013\Projects\Arrays\3.CharCompare\obj\Debug\3.CharCompare.pdb

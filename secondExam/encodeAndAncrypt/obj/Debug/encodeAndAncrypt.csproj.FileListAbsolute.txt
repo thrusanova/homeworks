@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\encodeAndAncrypt\bin\Debug\encodeAndAncrypt.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\encodeAndAncrypt\bin\Debug\encodeAndAncrypt.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\encodeAndAncrypt\bin\Debug\encodeAndAncrypt.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\encodeAndAncrypt\obj\Debug\encodeAndAncrypt.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\encodeAndAncrypt\obj\Debug\encodeAndAncrypt.pdb

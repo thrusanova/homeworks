@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\ftml\bin\Debug\ftml.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\ftml\bin\Debug\ftml.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\ftml\bin\Debug\ftml.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\ftml\obj\Debug\ftml.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\ftml\obj\Debug\ftml.pdb

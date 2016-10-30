@@ -1,0 +1,1 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\18.ExtactEmails\bin\Debug\18.ExtactEmails.exe.config

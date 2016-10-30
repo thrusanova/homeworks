@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\second\bin\Debug\second.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\second\bin\Debug\second.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\second\bin\Debug\second.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\second\obj\Debug\Дуранкулац.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\second\obj\Debug\second.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\second\obj\Debug\second.pdb

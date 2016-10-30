@@ -1,0 +1,2 @@
+c:\Users\tanya\documents\visual studio 2013\Projects\Arrays\4\obj\Debug\4.exe
+c:\Users\tanya\documents\visual studio 2013\Projects\Arrays\4\bin\Debug\4.exe.config

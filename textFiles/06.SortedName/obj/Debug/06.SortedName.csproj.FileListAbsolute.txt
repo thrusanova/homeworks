@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\06.SortedName\bin\Debug\06.SortedName.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\06.SortedName\bin\Debug\06.SortedName.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\06.SortedName\bin\Debug\06.SortedName.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\06.SortedName\obj\Debug\06.SortedName.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\06.SortedName\obj\Debug\06.SortedName.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\textFiles\06.SortedName\obj\Debug\06.SortedName.pdb

@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\03.ReadG\bin\Debug\03.ReadG.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\03.ReadG\bin\Debug\03.ReadG.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\03.ReadG\bin\Debug\03.ReadG.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\03.ReadG\obj\Debug\03.ReadG.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\03.ReadG\obj\Debug\03.ReadG.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\ExceptionHandling\03.ReadG\obj\Debug\03.ReadG.pdb

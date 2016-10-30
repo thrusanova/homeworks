@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\22.WordsCounts\bin\Debug\22.WordsCounts.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\22.WordsCounts\bin\Debug\22.WordsCounts.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\22.WordsCounts\bin\Debug\22.WordsCounts.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\22.WordsCounts\obj\Debug\22.WordsCounts.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\22.WordsCounts\obj\Debug\22.WordsCounts.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\StringsAndTextProcessing\22.WordsCounts\obj\Debug\22.WordsCounts.pdb

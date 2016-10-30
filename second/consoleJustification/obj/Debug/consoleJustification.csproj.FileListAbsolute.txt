@@ -1,0 +1,6 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\consoleJustification\bin\Debug\consoleJustification.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\consoleJustification\bin\Debug\consoleJustification.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\consoleJustification\bin\Debug\consoleJustification.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\consoleJustification\obj\Debug\consoleJustification.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\consoleJustification\obj\Debug\consoleJustification.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\second\consoleJustification\obj\Debug\consoleJustification.csprojResolveAssemblyReference.cache

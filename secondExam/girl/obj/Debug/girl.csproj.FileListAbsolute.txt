@@ -1,0 +1,5 @@
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\girl\bin\Debug\girl.exe.config
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\girl\bin\Debug\girl.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\girl\bin\Debug\girl.pdb
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\girl\obj\Debug\girl.exe
+C:\Users\tanya\Documents\Visual Studio 2013\Projects\C#2\secondExam\girl\obj\Debug\girl.pdb
